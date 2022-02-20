@@ -1,6 +1,10 @@
 # parcial_ordinario_1_2535192017
 
 A new Flutter project.
+Autores: 
+Bryan Steve Avalos Acosta 25-3519-2017
+Saul Enrique Castillo Henriquez 25-0856-2017
+
 
 ## Getting Started
 
